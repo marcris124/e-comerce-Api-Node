@@ -18,3 +18,8 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Servidor corriendo en el Puerto ${PORT}`);
 });
+
+
+//postgres://martin:9N4ISY8nBW3SjXe8Bqv7xNRjkFeU7vdL@
+//dpg-cgpkv40u9tun42tlm130-a.oregon-postgres.render.com
+///ecomerce_db
